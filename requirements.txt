@@ -5,3 +5,4 @@ torch
 pyngrok
 nest-asyncio
 huggingface-hub
+gunicorn
